@@ -1,0 +1,1 @@
+/home/kopihue/Leetcode/longest_substring_without_repeating_characters/target/debug/longest_substring_without_repeating_characters: /home/kopihue/Leetcode/longest_substring_without_repeating_characters/src/main.rs
